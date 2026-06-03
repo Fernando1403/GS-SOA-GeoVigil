@@ -1,0 +1,1 @@
+Sensores -> API -> Analise -> Alertas -> MySQL
